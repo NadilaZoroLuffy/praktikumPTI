@@ -1,6 +1,6 @@
 # MY_repository_1
 # TentangSaya
-Nama : Nadila Aprilla
-NIM : 11122212
-Jurusan : SI
-<h2>Minat : Ingin menjadi crazy rich<\h2>
+<h1>Nama : Nadila Aprilla
+<h2>NIM : 11122212
+<h2>Jurusan : SI
+<h2>Minat : Ingin menjadi crazy rich
