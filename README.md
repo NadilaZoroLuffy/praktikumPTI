@@ -4,3 +4,4 @@
 <h2>NIM : 11122212
 <h2>Jurusan : SI
 <h2>Minat : Ingin menjadi crazy rich
+Saya sedang belajar git dan github
